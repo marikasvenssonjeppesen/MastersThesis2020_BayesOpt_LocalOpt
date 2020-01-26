@@ -1,0 +1,2 @@
+Iteration	GP_regression.Mat32.variance	GP_regression.Mat32.lengthscale[[0]]	GP_regression.Mat32.lengthscale[[1]]	GP_regression.Gaussian_noise.variance
+1.0	0.5977358213856869	102.95018480306406	110.47616634506697	1e-09

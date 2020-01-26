@@ -1,0 +1,2 @@
+Iteration	GP_regression.Mat32.variance	GP_regression.Mat32.lengthscale	GP_regression.Gaussian_noise.variance
+1.0	1.0952674641938833	63.97401157339172	1.0000013011362811e-09
